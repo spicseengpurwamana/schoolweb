@@ -39,16 +39,23 @@ body {
     left:6%;
     top: 25%;
     transform: translate(-10%, -10%);
-    background-image: url(janbeautiful.jpeg);
+    background-image: url(SPICBUILDING.jpeg);
     background-size: 100% 100%;
     box-shadow: 0.08rem 0.015rem 0.06rem 0.3rem black;
     animation:slider1 80s infinite linear;
 }
 @keyframes slider1 {
-    0%{background-image: url(janbeautiful.jpeg);}
-    7%{background-image: url(jandisplay.jpeg);}
-    14%{background-image: url(janplay.jpeg);}
-    21%{background-image: url(janteacher.jpeg);}
+    0%{background-image: url(SPICBUILDING.jpeg);}
+    10%{background-image: url(SPICCLASSROOMGOOD.jpeg);}
+    20%{background-image: url(SPICCOLLAGE.jpeg);}
+    30%{background-image: url(SPICGANDHIJI.jpeg);}
+    40%{background-image: url(SPICBUILDINGCROSS.jpeg);}
+    50%{background-image: url(SPICGOOD.jpeg);}
+    60%{background-image: url(SPICMEET.jpeg);}
+    70%{background-image: url(SPICSARASWATI.jpeg);}
+    80%{background-image: url(SPICMEET2.jpeg);}
+    90%{background-image: url(SPICBUILDINGCROSSREPEAT.jpeg);}
+    95%{background-image: url(SPICLONGLOOK.jpeg);}
 }
 .gallery {
     width: 47.5%;
@@ -57,26 +64,26 @@ body {
     right:6%;
     bottom: 10%;
     transform: translate(10%, 10%);
-    background-image: url(janplay.jpeg);
+    background-image: url(SPICCLASSROOMGOOD.jpeg);
     background-size: 100% 100%;
     box-shadow: 0.08rem 0.015rem 0.06rem 0.3rem black;
     animation:slider 80s infinite linear;
 }
 @keyframes slider {
-    0%{background-image: url(janplay.jpeg);}
-    7%{background-image: url(school1.jpg);}
-    14%{background-image: url(yoga3.jpeg);}
+    0%{background-image: url(SPICCLASSROOMGOOD.jpeg);}
+    7%{background-image: url(SPICBUILDINGCROSSREPEAT.jpeg);}
+    14%{background-image: url(SPICMEET2.jpeg);}
     21%{background-image: url(yoga4.jpg);}
-    28%{background-image: url(janstudent.jpeg);}
-    35%{background-image: url(janteacher2.jpeg);}
+    28%{background-image: url(SPICLONGLOOK.jpeg);}
+    35%{background-image: url(SPICBUILDINGCROSS.jpeg);}
     42%{background-image: url(school7.jpg);}
     49%{background-image: url(school6.jpg);}
     56%{background-image: url(school5.jpg);}
     63%{background-image: url(yogastudent6.jpg);}
     70%{background-image: url(yogastudent7.jpg);}
     77%{background-image: url(school3.jpg);}
-    85%{background-image: url(janmaingate.jpeg);}
-    92%{background-image: url(janstudent2.jpeg);}
+    85%{background-image: url(SPICGANDHIJI.jpeg);}
+    92%{background-image: url(SPICLONGLOOK2.jpeg);}
 }
 
 a{
