@@ -63,19 +63,19 @@ h2 {
     left: 62%;
     top: 50%;
     transform: translate(-50%, -50%);
-    background-image: url(janmaingate.jpeg);
+    background-image: url(SPICGOOD.jpeg);
     background-size: 100% 100%;
     border-radius: 20%;
     box-shadow: 0.08rem 0.015rem 0.06rem 0.3rem black;
     animation:slider 20s infinite linear;
 }
 @keyframes slider {
-    0%{background-image: url(janmaingate.jpeg);}
-    25%{background-image: url(school2.jpg);}
+    0%{background-image: url(SPICGOOD.jpeg);}
+    25%{background-image: url(SPICMEET.jpeg);}
     50%{background-image: url(janbeautiful.jpeg);}
-    85%{background-image: url(yogastudent3.jpg);}
+    75%{background-image: url(yogastudent3.jpg);}
+    85%{background-image: url(SPICMEET2.jpeg);}
 }
-
 
 .icon-bar{
     position: fixed;
