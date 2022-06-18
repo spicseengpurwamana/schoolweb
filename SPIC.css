@@ -72,10 +72,13 @@ h2 {
 @keyframes slider {
     0%{background-image: url(SPICGOOD.jpeg);}
     25%{background-image: url(SPICMEET.jpeg);}
-    50%{background-image: url(janbeautiful.jpeg);}
-    75%{background-image: url(yogastudent3.jpg);}
-    85%{background-image: url(SPICMEET2.jpeg);}
+    40%{background-image: url(yogastudent3.jpg);}
+    50%{background-image: url(SPICBUILDING.jpeg);}
+    65%{background-image: url(yogastudent3.jpg);}
+    80%{background-image: url(SPICMEET2.jpeg);}
+    90%{background-image: url(yogastudent3.jpg);}
 }
+
 
 .icon-bar{
     position: fixed;
